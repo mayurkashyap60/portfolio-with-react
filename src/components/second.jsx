@@ -46,7 +46,7 @@ class Second extends Component {
                   deleniti id culpa tempora modi.
                 </p>
                 <div className="d-flex">
-                  <button className="btn btn-bg m-2">Learn More Test</button>
+                  <button className="btn btn-bg m-2">Learn More</button>
                   <button className="btn shadow m-2 border text-white rounded">
                     <span className="fa fa-video-camera"></span>
                     &nbsp;&nbsp;Watch Video
